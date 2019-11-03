@@ -1,6 +1,6 @@
 My Techdegree Project 1: Personal Profile Site
 
-https://mbhalesha.github.io/techdegree-project1-personal-profile-site/index.html
+https://mbhalesha.github.io/techdegree-project1-personal-profile-site
  
 I customized a personal online profile by adding graphics, adding text, and improving the look of a web page using Cascading Style Sheets, the formatting language of the web. 
 
