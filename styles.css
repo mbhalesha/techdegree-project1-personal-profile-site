@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid#BA703E;
+  border: 3px solid #BA703E;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -221,7 +221,6 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
-
 }
 
 .teaching-page {
