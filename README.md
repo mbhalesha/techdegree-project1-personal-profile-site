@@ -5,10 +5,10 @@ https://mbhalesha.github.io/techdegree-project1-personal-profile-site
 I customized a personal online profile by adding graphics, adding text, and improving the look of a web page using Cascading Style Sheets, the formatting language of the web. 
 
 This online profile contains
-- Webpages: home, experience, projects, and blog
+- Pages: home, experience, projects, and blog
 - Homepage consists of my background, my goals, my hobbies
 - The Experience page consists of my work experience in the recent past
-- The Projects page consists of two projects that I created to practice my HTML and CSS skills - he links to the projects are included.
+- The Projects page consists of two projects that I created to practice my HTML and CSS skills - The links to the projects are included.
 - THe Blog page consists of two blog post titles and links to continue reading at my WordPress site: https://manishabhalesha.wordpress.com
 - I included icons at the bottom of different social media websites/my work online: CodePen, Twitter, LinkedIn, GitHub, and WordPress  
 
