@@ -12,6 +12,7 @@ This online profile contains
 - the Blog page consists of two blog post titles and links to continue reading at my WordPress site: https://manishabhalesha.wordpress.com
 - I included icons at the bottom of different social media websites/my work online: CodePen, twitter, LinkedIn, GitHub, and WordPress  
 
+
 - I learned how to transform the profile image on hover so it would scale and rotate to give a bit of fun interaction with the page. It's important for the scale and rotation to add to the page in a positive and engaging manner.
 - I learned consistency among the webpages are important to create a theme for the website. This includes the design, the header, colors, and fonts.
 - I learned how to include images, give class names, and style the images so they are rounded at the corners and have a border.
