@@ -9,7 +9,7 @@ This online profile contains
 - Homepage consists of my background, my goals, my hobbies
 - The Experience page consists of my work experience in the recent past
 - The Projects page consists of two projects that I created to practice my HTML and CSS skills - The links to the projects are included.
-- THe Blog page consists of two blog post titles and links to continue reading at my WordPress site: https://manishabhalesha.wordpress.com
+- The Blog page consists of two blog post titles and links to continue reading at my WordPress site: https://manishabhalesha.wordpress.com
 - I included icons at the bottom of different social media websites/my work online: CodePen, Twitter, LinkedIn, GitHub, and WordPress  
 
 <br>
